@@ -163,14 +163,39 @@ https://github.com/raajyadav/configuration_properties
 
 ---
 
-## 🔥 Contribution Streak
+---
+---
+
+## 🔥 GitHub Contributions
+
+<!-- Contribution Streak (may temporarily fail due to GitHub API limits) -->
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=raajyadav&theme=github-dark&hide_border=true"
+  <img
+    src="https://streak-stats.demolab.com?user=raajyadav&theme=github-dark&hide_border=true&cache_seconds=86400"
     width="520"
-    alt="GitHub Contribution Streak"
+    alt=""
   />
 </p>
+
+<!-- Official GitHub-style contribution graph (more stable) -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raajyadav&theme=github-dark&hide_border=true"
+    alt=""
+  />
+</p>
+
+<!-- Overall GitHub stats (usually recovers fastest) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=raajyadav&show_icons=true&theme=github_dark&hide_border=true"
+    width="520"
+    alt=""
+  />
+</p>
+
+---
+
 
 ---
 
