@@ -156,7 +156,8 @@ https://github.com/raajyadav/configuration_properties
 
 ## 📄 Resume
 <p align="left">
-  <a href="https://drive.google.com/file/d/1NV1B1CWJpeRm8jnvkZGlykDLRpOmU4WM/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+  
+  <a href="https://drive.google.com/file/d/1iDVPyt5CuGXkm30LJt7eGISFZeKgnI0r/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
